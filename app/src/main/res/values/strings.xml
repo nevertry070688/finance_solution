@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Actionbar_tabhost</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tab1_acitivity">tab1_acitivity</string>
+    <string name="search_button">search</string>
+    <string name="title_activity_contextualactionactivity">Contextualactionactivity</string>
+    <string name="actionbar_menu">menu</string>
+    <string name="actionbar_chi">chi</string>
+    <string name="actionbar_next">&#62;&#62;</string>
+    <string name="actionbar_previous">&#60;&#60;</string>
+    <string name="title_activity_chi_activity">Chi_activity</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_activity_thu">activity_thu</string>
+
+</resources>

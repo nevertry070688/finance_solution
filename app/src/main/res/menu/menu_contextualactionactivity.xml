@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.tvu.actionbar_tabhost.Contextualactionactivity">
+
+    <item android:id="@+id/action_share" android:icon="@drawable/menuicon" android:title="@string/abc_action_mode_done"
+        android:orderInCategory="100" app:showAsAction="always" />
+</menu>

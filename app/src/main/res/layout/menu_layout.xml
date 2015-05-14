@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <TextView
+        android:layout_width="326dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Them Khoan Thu"
+        android:id="@+id/textView9"
+        android:layout_weight="0.06"
+        android:background="#ff3eff6b"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="47dp"
+        android:textAlignment="center" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Quan Ly Nhom"
+        android:id="@+id/textView10"
+        android:layout_weight="0.06"
+        android:layout_gravity="center_horizontal"
+        android:background="#ff3650ff"
+        android:layout_marginTop="43dp"
+        android:layout_below="@+id/textView9"
+        android:layout_alignStart="@+id/textView9"
+        android:layout_alignEnd="@+id/textView9"
+        android:textAlignment="center" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Bao cao thang"
+        android:id="@+id/textView11"
+        android:layout_marginTop="36dp"
+        android:layout_below="@+id/textView10"
+        android:layout_alignStart="@+id/textView10"
+        android:layout_alignEnd="@+id/textView10"
+        android:background="#ff2351ff" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="So no"
+        android:id="@+id/textView12"
+        android:background="#ff190aff"
+        android:layout_centerVertical="true"
+        android:layout_alignStart="@+id/textView11"
+        android:layout_alignEnd="@+id/textView11" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Tat ca giao dich"
+        android:id="@+id/textView13"
+        android:layout_below="@+id/textView12"
+        android:layout_alignStart="@+id/textView12"
+        android:layout_marginTop="49dp"
+        android:background="#ff1709ff"
+        android:layout_alignEnd="@+id/textView12" />
+</RelativeLayout>

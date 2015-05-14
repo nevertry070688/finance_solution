@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/tvu/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/home/tvu/AndroidStudioProjects/Actionbar_tabhost/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-ce984915df1ab19b8bffd234730acf86d104e4ab.jar" />
+    </item>
+    <item
+        jar="/home/tvu/AndroidStudioProjects/Actionbar_tabhost/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/home/tvu/AndroidStudioProjects/Actionbar_tabhost/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-3403b1151d6a08f9b36dfe2ece1d07da95979159.jar" />
+    </item>
+    <item
+        jar="/home/tvu/AndroidStudioProjects/Actionbar_tabhost/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/home/tvu/AndroidStudioProjects/Actionbar_tabhost/app/build/intermediates/pre-dexed/debug/classes-5348483f6519d7ed51aa37a87b94a4ecd2f6c713.jar" />
+    </item>
+    <item
+        jar="/home/tvu/AndroidStudioProjects/Actionbar_tabhost/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/home/tvu/AndroidStudioProjects/Actionbar_tabhost/app/build/intermediates/pre-dexed/debug/classes-bb550a876c1abc2171c0b4bb0933a635b9783d5c.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item android:id="@+id/action_menu" android:title="@string/actionbar_menu"
+        android:orderInCategory="100" app:showAsAction="always" />
+    <item android:id="@+id/action_chi" android:title="@string/actionbar_chi"
+        android:orderInCategory="100" app:showAsAction="always" />
+    <item  android:id="@+id/action_previous" android:title="@string/actionbar_previous"
+        android:orderInCategory="100" app:showAsAction="always" />
+    <item  android:id="@+id/action_month" android:title=""
+        android:orderInCategory="100" app:showAsAction="always" />
+    <item  android:id="@+id/action_next" android:title="@string/actionbar_next"
+        android:orderInCategory="100" app:showAsAction="always" />
+
+</menu>
